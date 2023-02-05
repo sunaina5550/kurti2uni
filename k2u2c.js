@@ -1,4 +1,4 @@
-<script type="text/javascript">
+
 
 function convert_to_Unicode_and_Chanakya()
 
@@ -555,4 +555,4 @@ modified_substring = modified_substring.substr ( 0 , modified_substring.length -
 
 
 
-</script>
+
